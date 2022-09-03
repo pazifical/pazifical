@@ -2,15 +2,15 @@
 
 ***50% Engineer + 50% Artist***
 
+___
 
-
-### :droplet: Civil Engineering
+### :cityscape: Civil Engineering
 
 - **M.Sc. Environmental Engineering**
-- Specialized in **Water Engineering**
-- Experience in Rainwater Runoff / Flood Modeling and Risk Assessment
+- Specialized in :droplet: **Water Engineering**
+- Experienced in Rainwater Runoff / Flood Modeling and Risk Assessment
 
-
+___
 
 ### :computer: Software Development
 
@@ -20,16 +20,15 @@
 - :mouse: **Go** and :crab: **Rust** for Command Line Utilities
 - :hammer_and_wrench: Main Tools: Git, Docker Swarm, Gitlab CI/CD, Elastic Search, Ansible
 
-
+___
 
 ### :musical_note: Music Production
 
 - Creating modern hip hop influenced guitar music
-- Guitar, Bass, Drums, Synths and Vocals
-- Uses Bitwig Studio (previously Ableton Live)
-- Biggest Influence: Radiohead, Nirvana, Polyphia, Björk, Dax, Lil Peep
+- Playing Guitar, Bass, Drums, Synths and doing Vocals
+- Biggest Influence: Radiohead, David Bowie, Nirvana, Polyphia, Björk, Dax, Chopin, Lofi Hip Hop
 
-
+___
 
 ### :camera_flash: Photography
 
