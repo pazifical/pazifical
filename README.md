@@ -1,6 +1,6 @@
 ## About me
 
-***50 % Engineer + 50% Artist***
+***50% Engineer + 50% Artist***
 
 
 
