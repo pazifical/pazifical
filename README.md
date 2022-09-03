@@ -5,7 +5,7 @@
 ### :cityscape: Civil Engineering
 
 - **M.Sc. Environmental Engineering**
-- Specialized in :droplet: **Water Engineering**
+- :droplet: Specialized in **Water Engineering**
 - Experienced in Rainwater Runoff / Flood Modeling and Risk Assessment
 
 
