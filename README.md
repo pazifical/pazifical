@@ -22,7 +22,7 @@
 
 - Creating modern hip hop influenced guitar music
 - Playing Guitar, Bass, Drums, Synths and doing Vocals
-- Biggest Influence: Radiohead, David Bowie, Nirvana, Polyphia, Björk, Dax, Chopin, Lofi Hip Hop
+- Biggest Influence: Radiohead, David Bowie, Mono, 65daysofstatic, Nirvana, Polyphia, Björk, Chopin, Lofi Hip Hop
 
 
 ### :camera_flash: Photography
