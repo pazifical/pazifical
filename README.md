@@ -12,9 +12,8 @@
 ### :computer: Software Development
 
 - :snake: **Python** for Data Science and Scripting
-- :mouse: **Go** and :crab: **Rust** for Command Line Utilities and Backend Development
-- :coffee: **Java** for Backend Development and Batch Processing
-- :spider_web: **JavaScript** for Frontend Web Development (using React & Tailwind CSS)
+- :mouse: **Go** for Backend and Tools
+- :spider_web: **CSS** and **JavaScript** for Frontend Web Development
 - :hammer_and_wrench: **Main Tools:** Git, Docker Swarm, Gitlab CI/CD, Elastic Search, Ansible
 
 
