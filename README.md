@@ -12,9 +12,9 @@
 ### :computer: Software Development
 
 - :snake: **Python** for Data Science and Scripting
-- :mouse: **Go** for Backend and Tools
+- :mouse: **Go** for Backend Development and Stand Alone Tools
 - :spider_web: **CSS** and **JavaScript** for Frontend Web Development
-- :hammer_and_wrench: **Main Tools:** Git, Docker Swarm, Gitlab CI/CD, Elastic Search, Ansible
+- :hammer_and_wrench: **Tools of Choice:** Git, Docker Swarm, Microk8s, Gitlab CI/CD, Ansible
 
 
 ### :musical_note: Music Production
