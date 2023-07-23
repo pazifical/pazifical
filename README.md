@@ -14,6 +14,7 @@
 - :snake: **Python** for Data Science and Scripting
 - :mouse: **Go** for Backend Development and Stand Alone Tools
 - :spider_web: **CSS** and **JavaScript** for Frontend Web Development
+- :elephant: **PostgreSQL** for data storage
 - :hammer_and_wrench: **Tools of Choice:** Git, Docker Swarm, Microk8s, Gitlab CI/CD, Ansible
 
 
