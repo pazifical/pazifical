@@ -5,17 +5,18 @@
 ### :cityscape: Civil Engineering
 
 - **M.Sc. Environmental Engineering**
-- Specialized in **Water Engineering** :droplet: 
-- Experienced in Rainwater Runoff / Flood Modeling and Risk Assessment
+- :droplet: **Water Engineering**: Rainwater Runoff / Flood Modeling and Risk Assessment
+- :house: **Smart Metering**: Big data and outlier analysis
 
 
-### :computer: Software Development
+### :computer: Software Engineering
 
-- :snake: **Python** for Data Science and Scripting
-- :mouse: **Go** for Backend Development and Stand Alone Tools
-- :spider_web: **CSS** and **JavaScript** for Frontend Web Development
-- :elephant: **PostgreSQL** for data storage
-- :hammer_and_wrench: **Tools of Choice:** Docker Swarm, Gitlab CI/CD
+- Data Science and Scripting: :snake: **Python** 
+- Backend and CLIs: :mouse: **Go**
+- Backend and Data Processing: :coffee: **Java**
+- Frontend: :spider_web: **Vanilla JavaScript** or **Vue.js** 
+- Databases: :elephant: **PostgreSQL** or :leafy_green: MongoDB
+- Deployment: :whale: **Docker Swarm** and **Gitlab CI/CD**
 
 
 ### :musical_note: Music Production
