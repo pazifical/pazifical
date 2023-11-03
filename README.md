@@ -1,14 +1,11 @@
 ## 50% Engineer + 50% Artist
 
-### :cityscape: Civil Engineer // :computer: Software Engineer :musical_note: Musician :camera_flash: Photographer
+### :cityscape: Civil Engineer
+**M.Sc. Environmental Engineering** // **Rainwater Runoff Simulations** // **Smart Metering Outlier Analysis**
 
-- **M.Sc. Environmental Engineering**
-- :droplet: **Water Engineering**: Rainwater Runoff / Flood Modeling and Risk Assessment
-- :house: **Smart Metering**: Big data and outlier analysis
+### :computer: Software Engineer 
 
-
-### :computer: Software Engineer
-
+ 
 - Data Science and Scripting: :snake: **Python** 
 - Backend and CLIs: :mouse: **Go**
 - Backend and Data Processing: :coffee: **Java**
@@ -16,9 +13,8 @@
 - Databases: :elephant: **PostgreSQL** or :leafy_green: MongoDB
 - Deployment: :whale: **Docker Swarm** and **Gitlab CI/CD**
 
-
 ### :musical_note: Musician
-
+ 
 - Hip hop influenced guitar music
 - Biggest Influence: Radiohead, David Bowie, Travis Scott, Mono, 65daysofstatic, Nirvana, Polyphia, Björk, Chopin, Placebo, My Chemical Romance
 
