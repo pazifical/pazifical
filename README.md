@@ -1,7 +1,7 @@
 ## About me
 
 ***50% Engineer + 50% Artist***
-<div style="border: 1px solid black">Hi</div>
+
 ### :cityscape: Civil Engineer
 
 - **M.Sc. Environmental Engineering**
