@@ -4,14 +4,16 @@
 **M.Sc. Environmental Engineering** // **Rainwater Runoff Simulations** // **Smart Metering Outlier Analysis**
 
 ### :computer: Software Engineer 
-
+:snake: **Python**  // :mouse: **Go** // :coffee: **Java** // :spider_web: **JavaScript** // :paintbrush: **CSS**
+:elephant: **PostgreSQL** // :leafy_green: **MongoDB**
+:whale: **Docker Swarm** // **Gitlab CI/CD**
  
-- Data Science and Scripting: :snake: **Python** 
-- Backend and CLIs: :mouse: **Go**
-- Backend and Data Processing: :coffee: **Java**
-- Frontend: :spider_web: **Vanilla JavaScript** or **Vue.js** 
-- Databases: :elephant: **PostgreSQL** or :leafy_green: MongoDB
-- Deployment: :whale: **Docker Swarm** and **Gitlab CI/CD**
+- Data Science and Scripting: 
+- Backend and CLIs: 
+- Backend and Data Processing: 
+- Frontend:  or **Vue.js** 
+- Databases: 
+- Deployment: 
 
 ### :musical_note: Musician
  
