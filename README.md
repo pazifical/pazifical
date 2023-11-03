@@ -21,9 +21,8 @@
 
 ### :musical_note: Musician
 
-- Creating modern hip hop influenced guitar music
-- Playing Guitar, Bass, Drums, Synths and doing Vocals
-- Biggest Influence: Radiohead, David Bowie, Mono, 65daysofstatic, Nirvana, Polyphia, Björk, Chopin, Placebo, Lofi Hip Hop
+- Hip hop influenced guitar music
+- Biggest Influence: Radiohead, David Bowie, Travis Scott, Mono, 65daysofstatic, Nirvana, Polyphia, Björk, Chopin, Placebo, My Chemical Romance
 
 
 ### :camera_flash: Photographer
