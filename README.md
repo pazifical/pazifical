@@ -1,8 +1,6 @@
-## About me
+## 50% Engineer + 50% Artist
 
-***50% Engineer + 50% Artist***
-
-### :cityscape: Civil Engineer
+### :cityscape: Civil Engineer :computer: Software Engineer :musical_note: Musician :camera_flash: Photographer
 
 - **M.Sc. Environmental Engineering**
 - :droplet: **Water Engineering**: Rainwater Runoff / Flood Modeling and Risk Assessment
