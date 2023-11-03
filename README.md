@@ -10,8 +10,4 @@
 https://www.youtube.com/@pazifical_orca
 
 ### :camera_flash: Photographer
-
-- Cinematic Photography
-- Cityscape / Landscape
-- Storytelling Portraits
-- Street Photography
+[Take a look at Unsplash](https://unsplash.com/@twowaysix)https://unsplash.com/@twowaysix
