@@ -15,7 +15,7 @@
 - :mouse: **Go** for Backend Development and Stand Alone Tools
 - :spider_web: **CSS** and **JavaScript** for Frontend Web Development
 - :elephant: **PostgreSQL** for data storage
-- :hammer_and_wrench: **Tools of Choice:** Git, Docker Swarm, Microk8s, Gitlab CI/CD, Ansible
+- :hammer_and_wrench: **Tools of Choice:** Docker Swarm, Gitlab CI/CD
 
 
 ### :musical_note: Music Production
