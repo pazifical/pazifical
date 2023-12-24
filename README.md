@@ -7,7 +7,7 @@
 :snake: **Python**  // :mouse: **Go** // :coffee: **Java** // :spider_web: **JavaScript** // :paintbrush: **CSS** // :elephant: **PostgreSQL** // :leafy_green: **MongoDB** // :whale: **Docker Swarm** // **Gitlab CI/CD**
 
 ### :musical_note: Musician
-[Have a listen at youtube.com](https://www.youtube.com/@pazifical_orca)
+[Have a listen at soundcloud.com](https://www.soundcloud.com/pazifical)
 
 ### :camera_flash: Photographer
 [Take a look at unsplash.com](https://unsplash.com/@pazifical)
