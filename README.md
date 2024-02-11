@@ -1,24 +1,27 @@
 # 50% Engineer + 50% Artist
 
+Hi! My name is Pascal, but I go by the name Paz (peace).
+
+I'd call myself a realistic optimist that always tries to make things better. Either by using my engineering skills to drive progress towards a better future or by trying to write eye opening lyrics.
+
 ## :cityscape: Civil Engineer
 
-| **M.Sc. Environmental Engineering**        |
-| ------------------------------------------ |
-| Rainwater Runoff Simulations               |
-| 2D Urban and Riverine Simulations          |
-| Smart Metering Clustering Outlier Analysis |
-| Geospatial Analysis and Geoinformatics     |
+| **M.Sc. Environmental Engineering**         |
+| ------------------------------------------- |
+| Rainwater Runoff Simulations                |
+| 2D Urban and Riverine Simulations           |
+| Smart Metering Cluster and Outlier Analysis |
+| Geospatial Analysis and Geoinformatics      |
 
 ## :computer: Software Engineer
 
-| Area of expertise    | Tools of choice               |
-| -------------------- | ----------------------------- |
-| Backend Development  | Go, Python and sometimes Java |
-| Frontend Development | Vanilla Javascript, Vue/Astro |
-| Frontend Design      | Plain and scoped CSS          |
-| CLIs and GUI Apps    | Go and Rust                   |
-| Databases            | SQL preferable without an ORM |
-| Deployment           | Docker/PaaS via CI/CD         |
+| Area of expertise    | Tools of choice                   |
+| -------------------- | --------------------------------- |
+| Backend Development  | Go, Python and Java               |
+| Frontend Development | Javascript+CSS with Vue and Astro |
+| CLIs and GUI Apps    | Go and Rust                       |
+| Databases            | SQL preferable without an ORM     |
+| Deployment           | Docker/PaaS via CI/CD             |
 
 ## :musical_note: Musician
 
