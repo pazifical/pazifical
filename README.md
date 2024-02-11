@@ -1,14 +1,26 @@
-## 50% Engineer + 50% Artist
+# 50% Engineer + 50% Artist
 
-### :cityscape: Civil Engineer
+## :cityscape: Civil Engineer
 
-**M.Sc. Environmental Engineering** // **Rainwater Runoff Simulations** // **Smart Metering Outlier Analysis**
+| **M.Sc. Environmental Engineering**        |
+| ------------------------------------------ |
+| Rainwater Runoff Simulations               |
+| 2D Urban and Riverine Simulations          |
+| Smart Metering Clustering Outlier Analysis |
+| Geospatial Analysis and Geoinformatics     |
 
-### :computer: Software Engineer
+## :computer: Software Engineer
 
-:snake: **Python** // :mouse: **Go** // :coffee: **Java** // :spider_web: **JavaScript** // :paintbrush: **CSS** // :elephant: **PostgreSQL** // :leafy_green: **MongoDB** // :whale: **Docker Swarm** // **Gitlab CI/CD**
+| Area of expertise    | Tools of choice               |
+| -------------------- | ----------------------------- |
+| Backend Development  | Go, Python and sometimes Java |
+| Frontend Development | Vanilla Javascript, Vue/Astro |
+| Frontend Design      | Plain and scoped CSS          |
+| CLIs and GUI Apps    | Go and Rust                   |
+| Databases            | SQL preferable without an ORM |
+| Deployment           | Docker/PaaS via CI/CD         |
 
-### :musical_note: Musician
+## :musical_note: Musician
 
 Expressing myself writing, recording and producing electronic infused acoustic music as well as metalcore/death metal inspired heavy music.
 
@@ -19,7 +31,7 @@ Expressing myself writing, recording and producing electronic infused acoustic m
 
 Songs with mostly self and AI generated music videos can be experienced on [YouTube](https://www.youtube.com/@pazificalmusic).
 
-### :camera_flash: Photographer
+## :camera_flash: Photographer
 
 Capturing lasting memories while traveling the world with my trusty Panasonic Lumix DSLM. I publish some of my work on [Unsplash.com](https://unsplash.com/@pazifical).
 
