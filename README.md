@@ -1,6 +1,6 @@
 # 50% Engineer + 50% Artist
 
-Hi! My name is Pascal, but I go by the name Paz (peace).
+Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
 
 I'd call myself a realistic optimist that always tries to make things better. Either by using my engineering skills to drive progress towards a better future or by trying to write eye opening lyrics.
 
