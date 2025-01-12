@@ -1,64 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Pazifical | 50% Engineer + 50% Artist</title>
     <style>
       :root {
         --color-dark: hsl(0 0% 5%);
-        --color-main: hsl(229, 100%, 83%);
-        --color-light: hsl(0, 0%, 95%);
-        --color-highlight: hsl(229, 100%, 33%);
+        --color-dark-2: hsl(0 0% 7%);
+        --color-mid: hsl(0 0% 10%);
+        --color-main: hsl(10, 74%, 58%);
+        --color-light: hsl(0 0% 95%);
+        --color-highlight: hsl(52, 89%, 71%);
       }
 
       * {
         font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        color: var(--color-light);
       }
 
       a {
         text-decoration: none;
         font-weight: bold;
+        color: var(--color-bright);
+      }
+      a:hover {
         color: var(--color-highlight);
+        text-decoration: 3px underline var(--color-light);
       }
 
       body {
         margin: 0;
         padding: 0;
-        background-color: var(--color-dark);
+        /* background-color: var(--color-dark); */
+        background: linear-gradient(
+          180deg,
+          var(--color-dark),
+          var(--color-mid)
+        );
+
         color: var(--color-light);
         min-height: 100vh;
+
+        background-color: #e5e5f7;
+        opacity: 0.8;
+        background-image: linear-gradient(
+            135deg,
+            var(--color-dark-2) 25%,
+            transparent 25%
+          ),
+          linear-gradient(225deg, var(--color-dark-2) 25%, transparent 25%),
+          linear-gradient(45deg, var(--color-dark-2) 25%, transparent 25%),
+          linear-gradient(
+            315deg,
+            var(--color-dark-2) 25%,
+            var(--color-dark) 25%
+          );
+        background-position: 40px 0, 40px 0, 0 0, 0 0;
+        background-size: 40px 40px;
+        background-repeat: repeat;
       }
 
-      main, nav {
+      section,
+      nav {
         max-width: 1200px;
         margin: auto;
+      }
+
+      section {
         padding: 1rem;
       }
 
-      main {
-        background-color: var(--color-main);
-        color: var(--color-dark);
-        box-shadow: 10px 10px 0 var(--color-light);
-
+      .box {
+        padding: 1rem;
+        border-radius: 0.5rem;
         font-size: 1.3rem;
+        background-color: var(--color-dark);
+        border: 2px solid var(--color-light);
       }
 
       nav {
-        font-size: 2rem;
         font-weight: bold;
+        padding: 1rem;
+
+        h1 {
+          font-size: 2rem;
+        }
+
+        p {
+          color: var(--color-highlight);
+        }
+      }
+
+      .btn-secondary {
+        cursor: pointer;
+        color: var(--color-highlight);
+        border-radius: 0.5rem;
+        padding: 1rem;
+      }
+
+      .btn-secondary:hover {
+        color: var(--color-dark);
+        background-color: var(--color-highlight);
+      }
+
+      #hero {
+        height: 200px;
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      
+        #circle {
+          background-color: var(--color-highlight);
+          width: 200px;
+          height: 200px;
+          border-radius: 1rem;
+          border: 5px solid var(--color-highlight);
+
+          background-image: url(self.png);
+          background-blend-mode: hard-light;
+          background-size: contain;
+        }
+
+        #info {
+          font-size: 1.5rem;
+          font-weight: bold;
+
+          div {
+            padding:0.25rem;
+          }
+        }
       }
     </style>
   </head>
   <body>
     <header>
       <nav>
-        Pazifical | 50% Engineer + 50% Artist 
+        <h1>Pazifical</h1>
+        <p>50% Engineer + 50% Artist</p>
       </nav>
     </header>
     <main>
-      Link to <a href="https://github.com/pazifical">Github</a>
+      <section id="hero">
+        <div id="circle">
+        </div>
+        <div id="info">
+          <div>
+            <a href="">Software Engineer</a>
+          </div>
+          <div>
+            <a href="">Civil Engineer</a>
+          </div>
+          <div>
+            <a href="">Photographer</a>
+          </div>
+          <div>
+            <a href="">Musician</a>
+          </div>
+        </div>
+      </section>
     </main>
   </body>
 </html>
