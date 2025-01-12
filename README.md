@@ -1,3 +1,5 @@
+![Engineer Artist](50-50.png)
+
 # 50% Engineer + 50% Artist
 
 Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
@@ -58,5 +60,5 @@ Capturing lasting memories while traveling the world with my trusty Panasonic Lu
 
 | ![](https://images.unsplash.com/photo-1633550244423-f0d49e3f0eb9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8N3x8fGVufDB8fHx8fA%3D%3D) | ![](https://images.unsplash.com/photo-1633550162102-2b229d4e3c75?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8fA%3D%3D) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://images.unsplash.com/photo-1633549958943-fe1395fae12a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8fA%3D%3D) | ![](https://images.unsplash.com/photo-1633257482413-f8554dcc52fa?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTR8fHxlbnwwfHx8fHw%3D)   |
+| |  |
 | ![](https://images.unsplash.com/photo-1633257336632-3deafd16bd98?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTh8fHxlbnwwfHx8fHw%3D)   | ![](https://images.unsplash.com/photo-1633257712872-f1dbe3032c29?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTN8fHxlbnwwfHx8fHw%3D)   |
