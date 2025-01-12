@@ -1,3 +1,5 @@
+![Engineer Artist](50-50.png)
+
 # 50% Engineer + 50% Artist
 
 Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
