@@ -8,8 +8,9 @@
     <style>
       :root {
         --color-dark: hsl(0 0% 5%);
+        --color-main: hsl(229, 100%, 83%);
         --color-light: hsl(0, 0%, 95%);
-        --color-highlight: hsl(52, 100%, 78%);
+        --color-highlight: hsl(229, 100%, 33%);
       }
 
       * {
@@ -27,17 +28,26 @@
         padding: 0;
         background-color: var(--color-dark);
         color: var(--color-light);
+        min-height: 100vh;
       }
 
       main, nav {
         max-width: 1200px;
         margin: auto;
+        padding: 1rem;
+      }
+
+      main {
+        background-color: var(--color-main);
+        color: var(--color-dark);
+        box-shadow: 10px 10px 0 var(--color-light);
+
+        font-size: 1.3rem;
       }
 
       nav {
         font-size: 2rem;
         font-weight: bold;
-        padding: 1rem;
       }
     </style>
   </head>
