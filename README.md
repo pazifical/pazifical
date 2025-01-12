@@ -23,17 +23,12 @@ My love for software development started while studying **M.Sc. Environmental En
 | Area of expertise     | Topics                            | Solutions                                 |
 | --------------------- | --------------------------------- | ----------------------------------------- | 
 | Big Data              | Smart Meter Analysis              | Clustering of daily energy usage patterns |
-|               |              | Outlier detection |
+|                       |                                   | Outlier detection                         |
 | Geospatial Analysis   | ESRI ArcGIS and QGIS              | Plugin Development                        |
-| Hydrology             | Rainwater Runoff Simulations      | Data processing pipelines. Validation     |                        
-| Hydraulic Simulations | 2D Urban and Riverine Simulations | Data processing pipelines. Validation     |             
-
-| ------------------------------------------- |
-| Rainwater Runoff Simulations                |
-| 2D Urban and Riverine Simulations           |
-| Smart Metering Cluster and Outlier Analysis |
-| Geospatial Analysis and Geoinformatics      |
-
+| Hydrology             | Rainwater Runoff Simulations      | Data processing pipelines                 |   
+|                       |                                   | Result validation and risk assessment     |                        
+| Hydraulic Simulations | 2D Urban and Riverine Simulations | Data processing pipelines                 |                        
+|                       |                                   | Result validation and risk assessment     |             
 
 
 ## :musical_note: Musician
