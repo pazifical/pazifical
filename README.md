@@ -3,7 +3,6 @@
 Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
 
 <br>
-<br>
 
 ## I'm a :computer: Software Engineer
 
@@ -19,7 +18,6 @@ I am mainly a **Full Stack Web Developer** and **Data Engineer** with enough **D
 | Databases            | PostgreSQL, SQLite or MongoDB     |
 | Deployment           | Docker (Swarm) via CI/CD          |
 
-<br>
 <br>
 
 ## I'm a :cityscape: Civil Engineer
@@ -40,7 +38,6 @@ To prevent the misuse of MS Excel and provide **robust** and **resilient** solut
 |                       |                                   | Result validation and risk assessment     |             
 
 <br>
-<br>
 
 ## I'm a :musical_note: Musician
 
@@ -53,7 +50,6 @@ Since my childhood, I regularly play and write music. I love to express myself w
 
 Songs with mostly self and AI generated music videos can be experienced on [YouTube](https://www.youtube.com/@pazificalmusic).
 
-<br>
 <br>
 
 ## I'm a :camera_flash: Photographer
