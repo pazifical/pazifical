@@ -2,8 +2,15 @@
 
 Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
 
-I'd call myself a realistic optimist that always tries to make things better. Either by using my engineering skills to drive progress towards a better future or by trying to write eye opening lyrics.
+I'm a **realistic optimist** that always looks for pragmatic solutions with as little complexity as possible. 
 
+<div style="display: flex; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>4</div>
+  
+</div>
 ## :cityscape: Civil Engineer
 
 | **M.Sc. Environmental Engineering**         |
