@@ -2,33 +2,39 @@
 
 Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
 
-I'm a **realistic optimist** that always looks for pragmatic solutions with as little complexity as possible. 
+## :computer: I am a Software Engineer
 
-<div style="display: flex; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr">
-<div>1</div>
-<div>2</div>
-<div>3</div>
-<div>4</div>
-  
-</div>
+As a **Software Engineer** I always look for pragmatic solutions with as little complexity as possible.
+
+I am mainly a **Full Stack Web Developer** and **Data Engineer** with enough **Data Science** knowledge.
+
+| Area of expertise    | Tools of choice                   |
+| -------------------- | --------------------------------- |
+| Backend Development  | Go (stdlib) and Python (fastapi)  |
+| Frontend Development | Vanilla or Vue.js                 |
+| Command Line Tools   | Go                                |
+| Databases            | PostgreSQL, SQLite or MongoDB     |
+| Deployment           | Docker (Swarm) via CI/CD          |
+
 ## :cityscape: Civil Engineer
 
-| **M.Sc. Environmental Engineering**         |
+My love for software development started while studying **M.Sc. Environmental Engineering** at TU Darmstadt. To prevent the misuse of MS Excel and provide robust and resilient solutions, I started to write software for several use cases.
+
+| Area of expertise     | Topics                            | Solutions                                 |
+| --------------------- | --------------------------------- | ----------------------------------------- | 
+| Big Data              | Smart Meter Analysis              | Clustering of daily energy usage patterns |
+|               |              | Outlier detection |
+| Geospatial Analysis   | ESRI ArcGIS and QGIS              | Plugin Development                        |
+| Hydrology             | Rainwater Runoff Simulations      | Data processing pipelines. Validation     |                        
+| Hydraulic Simulations | 2D Urban and Riverine Simulations | Data processing pipelines. Validation     |             
+
 | ------------------------------------------- |
 | Rainwater Runoff Simulations                |
 | 2D Urban and Riverine Simulations           |
 | Smart Metering Cluster and Outlier Analysis |
 | Geospatial Analysis and Geoinformatics      |
 
-## :computer: Software Engineer
 
-| Area of expertise    | Tools of choice                   |
-| -------------------- | --------------------------------- |
-| Backend Development  | Go, Python and Java               |
-| Frontend Development | Javascript+CSS with Vue and Astro |
-| CLIs and GUI Apps    | Go and Rust                       |
-| Databases            | SQL preferable without an ORM     |
-| Deployment           | Docker/PaaS via CI/CD             |
 
 ## :musical_note: Musician
 
