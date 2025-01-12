@@ -4,7 +4,7 @@ Hi! My name is Pascal, but I go by the name Paz (🇪🇸 peace).
 
 <br>
 
-## I'm a :computer: Software Engineer
+## :computer: I'm a Software Engineer
 
 As a **Software Engineer** I always look for pragmatic solutions with as little complexity as possible.
 
@@ -20,7 +20,7 @@ I am mainly a **Full Stack Web Developer** and **Data Engineer** with enough **D
 
 <br>
 
-## I'm a :cityscape: Civil Engineer
+## :cityscape: I'm a Civil Engineer
 
 My love for software development started while studying **M.Sc. Environmental Engineering** at TU Darmstadt. 
 
@@ -39,7 +39,7 @@ To prevent the misuse of MS Excel and provide **robust** and **resilient** solut
 
 <br>
 
-## I'm a :musical_note: Musician
+## :musical_note: I'm a Musician
 
 Since my childhood, I regularly play and write music. I love to express myself writing, recording and producing **electronic infused acoustic music** as well as **metalcore/death metal** inspired heavy music.
 
@@ -52,7 +52,7 @@ Songs with mostly self and AI generated music videos can be experienced on [YouT
 
 <br>
 
-## I'm a :camera_flash: Photographer
+## :camera_flash: I'm a Photographer
 
 Capturing lasting memories while traveling the world with my trusty Panasonic Lumix DSLM. I publish some of my work on [Unsplash.com](https://unsplash.com/@pazifical).
 
